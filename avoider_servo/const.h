@@ -1,0 +1,10 @@
+#define TRIG_PIN 9
+#define ECHO_PIN 10
+#define LIMIT_CLOSE 15
+#define SPEED 150
+#define PIN_LEFT_FORWARD 7
+#define PIN_LEFT_BACKWARD 8
+#define PIN_RIGHT_FORWARD 9
+#define PIN_LIGHT_BACKWARD 10
+
+
